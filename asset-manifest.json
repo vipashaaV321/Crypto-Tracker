@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/vipashaaV321.github.io/Crypto-Tracker/static/css/main.34ba03b0.chunk.css",
-    "main.js": "/vipashaaV321.github.io/Crypto-Tracker/static/js/main.04c5983e.chunk.js",
-    "main.js.map": "/vipashaaV321.github.io/Crypto-Tracker/static/js/main.04c5983e.chunk.js.map",
-    "runtime-main.js": "/vipashaaV321.github.io/Crypto-Tracker/static/js/runtime-main.ffb5aa1f.js",
-    "runtime-main.js.map": "/vipashaaV321.github.io/Crypto-Tracker/static/js/runtime-main.ffb5aa1f.js.map",
-    "static/css/2.ea6b7726.chunk.css": "/vipashaaV321.github.io/Crypto-Tracker/static/css/2.ea6b7726.chunk.css",
-    "static/js/2.998b53e4.chunk.js": "/vipashaaV321.github.io/Crypto-Tracker/static/js/2.998b53e4.chunk.js",
-    "static/js/2.998b53e4.chunk.js.map": "/vipashaaV321.github.io/Crypto-Tracker/static/js/2.998b53e4.chunk.js.map",
-    "index.html": "/vipashaaV321.github.io/Crypto-Tracker/index.html",
-    "precache-manifest.3d8bd139de1316aba934a2b4539855ae.js": "/vipashaaV321.github.io/Crypto-Tracker/precache-manifest.3d8bd139de1316aba934a2b4539855ae.js",
-    "service-worker.js": "/vipashaaV321.github.io/Crypto-Tracker/service-worker.js",
-    "static/css/2.ea6b7726.chunk.css.map": "/vipashaaV321.github.io/Crypto-Tracker/static/css/2.ea6b7726.chunk.css.map",
-    "static/css/main.34ba03b0.chunk.css.map": "/vipashaaV321.github.io/Crypto-Tracker/static/css/main.34ba03b0.chunk.css.map",
-    "static/js/2.998b53e4.chunk.js.LICENSE.txt": "/vipashaaV321.github.io/Crypto-Tracker/static/js/2.998b53e4.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/vipashaaV321.github.io/Crypto-Tracker/static/media/1.d5b57417.jpg"
+    "main.css": "/Crypto-Tracker/static/css/main.34ba03b0.chunk.css",
+    "main.js": "/Crypto-Tracker/static/js/main.82d0ae0e.chunk.js",
+    "main.js.map": "/Crypto-Tracker/static/js/main.82d0ae0e.chunk.js.map",
+    "runtime-main.js": "/Crypto-Tracker/static/js/runtime-main.4e2b4ac4.js",
+    "runtime-main.js.map": "/Crypto-Tracker/static/js/runtime-main.4e2b4ac4.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/Crypto-Tracker/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.998b53e4.chunk.js": "/Crypto-Tracker/static/js/2.998b53e4.chunk.js",
+    "static/js/2.998b53e4.chunk.js.map": "/Crypto-Tracker/static/js/2.998b53e4.chunk.js.map",
+    "index.html": "/Crypto-Tracker/index.html",
+    "precache-manifest.9e5f31fe0060d13f0b4f3698c9f7db07.js": "/Crypto-Tracker/precache-manifest.9e5f31fe0060d13f0b4f3698c9f7db07.js",
+    "service-worker.js": "/Crypto-Tracker/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/Crypto-Tracker/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.34ba03b0.chunk.css.map": "/Crypto-Tracker/static/css/main.34ba03b0.chunk.css.map",
+    "static/js/2.998b53e4.chunk.js.LICENSE.txt": "/Crypto-Tracker/static/js/2.998b53e4.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Crypto-Tracker/static/media/1.d5b57417.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffb5aa1f.js",
+    "static/js/runtime-main.4e2b4ac4.js",
     "static/css/2.ea6b7726.chunk.css",
     "static/js/2.998b53e4.chunk.js",
     "static/css/main.34ba03b0.chunk.css",
-    "static/js/main.04c5983e.chunk.js"
+    "static/js/main.82d0ae0e.chunk.js"
   ]
 }
