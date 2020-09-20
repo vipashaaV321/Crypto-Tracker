@@ -4,6 +4,7 @@ const Coins = ({name,image,symbol,price,volume,priceChange,marketcap,marketcapra
     return (
   
      <Card style={{ width: '18rem' }} className="m-2 col-md-6 col-sm-12 col-lg-3 mx-auto cardd">
+         <br/>
     <Card.Img variant="top" src={image} style={{ width: '100px',height:'100px'}} className="mx-auto d-block"/>
     <Card.Body>
     <Card.Title><h2>{name}</h2></Card.Title>
@@ -26,6 +27,7 @@ const Coins = ({name,image,symbol,price,volume,priceChange,marketcap,marketcapra
 </p>
     </Card.Text>
      </Card.Body>
+     <br/>
 </Card>
 
   
