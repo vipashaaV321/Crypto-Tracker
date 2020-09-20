@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db73e1f01c215a3d4c425f522cb741c7",
+    "revision": "baf2f95df3c2b45ab8ee9b461fc1a730",
     "url": "/Crypto-Tracker/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crypto-Tracker/static/css/2.ea6b7726.chunk.css"
   },
   {
-    "revision": "5c3f62e91047ee9f6b1f",
-    "url": "/Crypto-Tracker/static/css/main.da09138f.chunk.css"
+    "revision": "1ff9c4c58f72eaee2135",
+    "url": "/Crypto-Tracker/static/css/main.09d8ef7f.chunk.css"
   },
   {
     "revision": "10b0e2c64a8d4dfc9ab4",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crypto-Tracker/static/js/2.998b53e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c3f62e91047ee9f6b1f",
-    "url": "/Crypto-Tracker/static/js/main.336d0f61.chunk.js"
+    "revision": "1ff9c4c58f72eaee2135",
+    "url": "/Crypto-Tracker/static/js/main.defb121b.chunk.js"
   },
   {
     "revision": "a2d80e23385706f0723a",

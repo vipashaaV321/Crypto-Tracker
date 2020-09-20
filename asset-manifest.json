@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Crypto-Tracker/static/css/main.da09138f.chunk.css",
-    "main.js": "/Crypto-Tracker/static/js/main.336d0f61.chunk.js",
-    "main.js.map": "/Crypto-Tracker/static/js/main.336d0f61.chunk.js.map",
+    "main.css": "/Crypto-Tracker/static/css/main.09d8ef7f.chunk.css",
+    "main.js": "/Crypto-Tracker/static/js/main.defb121b.chunk.js",
+    "main.js.map": "/Crypto-Tracker/static/js/main.defb121b.chunk.js.map",
     "runtime-main.js": "/Crypto-Tracker/static/js/runtime-main.4e2b4ac4.js",
     "runtime-main.js.map": "/Crypto-Tracker/static/js/runtime-main.4e2b4ac4.js.map",
     "static/css/2.ea6b7726.chunk.css": "/Crypto-Tracker/static/css/2.ea6b7726.chunk.css",
     "static/js/2.998b53e4.chunk.js": "/Crypto-Tracker/static/js/2.998b53e4.chunk.js",
     "static/js/2.998b53e4.chunk.js.map": "/Crypto-Tracker/static/js/2.998b53e4.chunk.js.map",
     "index.html": "/Crypto-Tracker/index.html",
-    "precache-manifest.4289ffdd92341006304bcfc67a3b695d.js": "/Crypto-Tracker/precache-manifest.4289ffdd92341006304bcfc67a3b695d.js",
+    "precache-manifest.dc518b6081e4af61920419e987f2361d.js": "/Crypto-Tracker/precache-manifest.dc518b6081e4af61920419e987f2361d.js",
     "service-worker.js": "/Crypto-Tracker/service-worker.js",
     "static/css/2.ea6b7726.chunk.css.map": "/Crypto-Tracker/static/css/2.ea6b7726.chunk.css.map",
-    "static/css/main.da09138f.chunk.css.map": "/Crypto-Tracker/static/css/main.da09138f.chunk.css.map",
+    "static/css/main.09d8ef7f.chunk.css.map": "/Crypto-Tracker/static/css/main.09d8ef7f.chunk.css.map",
     "static/js/2.998b53e4.chunk.js.LICENSE.txt": "/Crypto-Tracker/static/js/2.998b53e4.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/Crypto-Tracker/static/media/1.d5b57417.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.4e2b4ac4.js",
     "static/css/2.ea6b7726.chunk.css",
     "static/js/2.998b53e4.chunk.js",
-    "static/css/main.da09138f.chunk.css",
-    "static/js/main.336d0f61.chunk.js"
+    "static/css/main.09d8ef7f.chunk.css",
+    "static/js/main.defb121b.chunk.js"
   ]
 }
