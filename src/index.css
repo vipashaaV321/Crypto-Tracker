@@ -51,10 +51,10 @@ nav{
 }
 @keyframes up-down{
   0%{
-    transform:translateY(15px);
+    transform:translateY(10px);
   }
   100%{
-    transform:translateY(-15px);
+    transform:translateY(-10px);
   }
 }
 .card{
